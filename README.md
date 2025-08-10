@@ -5,7 +5,7 @@ A basic Python console calculator that supports addition, subtraction, multiplic
 ## How to Use
 
 1. Run the script:
-   `python 02_calculator.py`
+   `python main.py`
 
 2. Enter the first number when prompted.
 
